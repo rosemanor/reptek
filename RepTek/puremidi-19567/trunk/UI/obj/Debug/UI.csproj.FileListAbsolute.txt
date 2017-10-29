@@ -1,0 +1,16 @@
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\UI\bin\Debug\UI.dll
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\UI\bin\Debug\UI.pdb
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\UI\obj\Debug\UI.Forms.SplashForm.resources
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\UI\obj\Debug\UI.dll
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\UI\obj\Debug\UI.pdb
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\UI\bin\Debug\UI.dll
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\UI\bin\Debug\UI.pdb
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\UI\obj\Debug\UI.Forms.SplashForm.resources
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\UI\obj\Debug\UI.dll
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\UI\obj\Debug\UI.pdb

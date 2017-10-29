@@ -1,0 +1,7 @@
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\UI\bin\Release\UI.dll
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\UI\bin\Release\UI.pdb
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\UI\obj\Release\UI.Forms.SplashForm.resources
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\UI\obj\Release\UI.Properties.Resources.resources
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\UI\obj\Release\UI.csproj.GenerateResource.Cache
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\UI\obj\Release\UI.dll
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\UI\obj\Release\UI.pdb

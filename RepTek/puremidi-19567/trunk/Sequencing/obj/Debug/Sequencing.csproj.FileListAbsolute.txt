@@ -1,0 +1,8 @@
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\Sequencing\bin\Debug\PureMidi.Sequencing.dll
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\Sequencing\bin\Debug\PureMidi.Sequencing.pdb
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\Sequencing\obj\Debug\PureMidi.Sequencing.dll
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\Sequencing\obj\Debug\PureMidi.Sequencing.pdb
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\Sequencing\bin\Debug\PureMidi.Sequencing.dll
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\Sequencing\bin\Debug\PureMidi.Sequencing.pdb
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\Sequencing\obj\Debug\PureMidi.Sequencing.dll
+C:\Users\rtrose\OneDrive\RepTek\RepTek\puremidi-19567\trunk\Sequencing\obj\Debug\PureMidi.Sequencing.pdb

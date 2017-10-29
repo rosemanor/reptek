@@ -15,6 +15,25 @@ namespace RepTek
         public Form1()
         {
             InitializeComponent();
+
+            button1.Click += new System.EventHandler(this.btnButton_Click);
+            button2.Click += new System.EventHandler(this.exitBtnButton_Click);
+
+            MyApp myApp = new MyApp();
         }
-    }
+
+
+        void btnButton_Click(object sender, EventArgs e)
+        {
+            // your code goes here
+        }
+
+        void exitBtnButton_Click(object sender, EventArgs e)
+        {
+            // your exit button code goes here
+            System.Windows.Forms.Application.ExitThread();
+        }
+
+
+    }    
 }

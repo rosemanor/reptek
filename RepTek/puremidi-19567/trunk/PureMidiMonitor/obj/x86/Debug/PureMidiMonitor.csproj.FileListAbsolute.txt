@@ -1,0 +1,17 @@
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\bin\Debug\PureMidi.Monitor.exe.config
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\bin\Debug\PureMidi.Monitor.exe.manifest
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\bin\Debug\PureMidi.Monitor.application
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\bin\Debug\PureMidi.Monitor.exe
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\bin\Debug\PureMidi.Monitor.pdb
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\bin\Debug\PureMidi.CoreMmSystem.dll
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\bin\Debug\UI.dll
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\bin\Debug\PureMidi.CoreMmSystem.pdb
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\bin\Debug\UI.pdb
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\obj\x86\Debug\PureMidiMonitor.csprojResolveAssemblyReference.cache
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\obj\x86\Debug\PureMidi.Monitor.Monitor.resources
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\obj\x86\Debug\PureMidi.Monitor.Properties.Resources.resources
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\obj\x86\Debug\PureMidiMonitor.csproj.GenerateResource.Cache
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\obj\x86\Debug\PureMidi.Monitor.exe.manifest
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\obj\x86\Debug\PureMidi.Monitor.application
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\obj\x86\Debug\PureMidi.Monitor.exe
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\PureMidiMonitor\obj\x86\Debug\PureMidi.Monitor.pdb

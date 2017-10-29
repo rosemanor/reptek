@@ -1,0 +1,8 @@
+C:\Users\rtrose\Downloads\assimp-net-master\assimp-net-master\AssimpNet\bin\Net45-Release\Assimp32.dll
+C:\Users\rtrose\Downloads\assimp-net-master\assimp-net-master\AssimpNet\bin\Net45-Release\Assimp64.dll
+C:\Users\rtrose\Downloads\assimp-net-master\assimp-net-master\AssimpNet\bin\Net45-Release\AssimpLicense.txt
+C:\Users\rtrose\Downloads\assimp-net-master\assimp-net-master\AssimpNet\bin\Net45-Release\AssimpNet.XML
+C:\Users\rtrose\Downloads\assimp-net-master\assimp-net-master\AssimpNet\bin\Net45-Release\AssimpNet.dll
+C:\Users\rtrose\Downloads\assimp-net-master\assimp-net-master\AssimpNet\bin\Net45-Release\AssimpNet.pdb
+C:\Users\rtrose\Downloads\assimp-net-master\assimp-net-master\AssimpNet\obj\Net45-Release\AssimpNet.dll
+C:\Users\rtrose\Downloads\assimp-net-master\assimp-net-master\AssimpNet\obj\Net45-Release\AssimpNet.pdb

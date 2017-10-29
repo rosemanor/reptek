@@ -1,0 +1,9 @@
+C:\Users\rtrose\OneDrive\RepTek\RepTek\RepTek\bin\Debug\RepTek.exe.config
+C:\Users\rtrose\OneDrive\RepTek\RepTek\RepTek\bin\Debug\RepTek.exe
+C:\Users\rtrose\OneDrive\RepTek\RepTek\RepTek\bin\Debug\RepTek.pdb
+C:\Users\rtrose\OneDrive\RepTek\RepTek\RepTek\obj\Debug\RepTek.csprojResolveAssemblyReference.cache
+C:\Users\rtrose\OneDrive\RepTek\RepTek\RepTek\obj\Debug\RepTek.Form1.resources
+C:\Users\rtrose\OneDrive\RepTek\RepTek\RepTek\obj\Debug\RepTek.Properties.Resources.resources
+C:\Users\rtrose\OneDrive\RepTek\RepTek\RepTek\obj\Debug\RepTek.csproj.GenerateResource.Cache
+C:\Users\rtrose\OneDrive\RepTek\RepTek\RepTek\obj\Debug\RepTek.exe
+C:\Users\rtrose\OneDrive\RepTek\RepTek\RepTek\obj\Debug\RepTek.pdb

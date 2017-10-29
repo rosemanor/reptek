@@ -1,0 +1,5 @@
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\CoreMmSystem\bin\Debug\PureMidi.CoreMmSystem.dll
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\CoreMmSystem\bin\Debug\PureMidi.CoreMmSystem.pdb
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\CoreMmSystem\obj\Debug\CoreMmSystem.csprojResolveAssemblyReference.cache
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\CoreMmSystem\obj\Debug\PureMidi.CoreMmSystem.dll
+C:\Users\rtrose\Downloads\puremidi-19567\trunk\CoreMmSystem\obj\Debug\PureMidi.CoreMmSystem.pdb
