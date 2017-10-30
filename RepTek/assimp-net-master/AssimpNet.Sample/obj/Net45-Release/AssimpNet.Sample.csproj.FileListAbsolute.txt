@@ -32,3 +32,5 @@ C:\Users\rtrose\OneDrive\RepTek\RepTek\assimp-net-master\AssimpNet.Sample\bin\Ne
 C:\Users\rtrose\OneDrive\RepTek\RepTek\assimp-net-master\AssimpNet.Sample\bin\Net45-Release\OpenTK.GLControl.xml
 C:\Users\rtrose\OneDrive\RepTek\RepTek\assimp-net-master\AssimpNet.Sample\obj\Net45-Release\AssimpNet.Sample.exe
 C:\Users\rtrose\OneDrive\RepTek\RepTek\assimp-net-master\AssimpNet.Sample\obj\Net45-Release\AssimpNet.Sample.pdb
+C:\Users\rtrose\OneDrive\RepTek\RepTek\assimp-net-master\AssimpNet.Sample\bin\Net45-Release\AssimpNet.xml
+C:\Users\rtrose\OneDrive\RepTek\RepTek\assimp-net-master\AssimpNet.Sample\obj\Net45-Release\AssimpNet.Sample.csprojResolveAssemblyReference.cache

@@ -30,6 +30,7 @@ using OpenTK;
 using OpenTK.Graphics;
 using OpenTK.Graphics.OpenGL;
 
+
 namespace Assimp.Sample
 {
     public class SimpleOpenGLSample : GameWindow
@@ -39,6 +40,9 @@ namespace Assimp.Sample
         private float m_angle;
         private int m_displayList;
         private int m_texId;
+        //
+        private Grid myGrid;
+        private SkyBox mySkyBox;
 
         public SimpleOpenGLSample()
             : base()
@@ -46,14 +50,14 @@ namespace Assimp.Sample
             Title = "AssimpNet OpenGL Game";
 
             String fileName = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location),
-            "duck.dae");
+            "blade_runner_police_spinner_blue.rot.4.obj");
             //"blade_runner_police_spinner_blue.obj");
             //"Center_City_Sci-Fi.obj");
             //"blade_runner_police_spinner_blue.obj");
             //"duck.dae");
 
             AssimpContext importer = new AssimpContext();
-            importer.SetConfig(new NormalSmoothingAngleConfig(66.0f));
+            importer.SetConfig(new NormalSmoothingAngleConfig(42.0f));
             m_model = importer.ImportFile(fileName, PostProcessPreset.TargetRealTimeMaximumQuality);
             ComputeBoundingBox();
         }
@@ -114,12 +118,17 @@ namespace Assimp.Sample
         {
             base.OnUpdateFrame(e);
 
-            //m_angle += 25f * (float) e.Time;
-            //if(m_angle > 360)
+            //tmp
+            //m_sceneCenter.Z += 11f * (float)e.Time;
+
+            //tmp
+            //m_angle += 25f * (float)e.Time;
+            //if (m_angle > 360)
             //{
             //    m_angle = 0.0f;
             //}
-            if(Keyboard[OpenTK.Input.Key.Escape])
+
+            if (Keyboard[OpenTK.Input.Key.Escape])
             {
                 this.Exit();
             }
@@ -155,7 +164,9 @@ namespace Assimp.Sample
             GL.FrontFace(FrontFaceDirection.Ccw);
 
             GL.MatrixMode(MatrixMode.Modelview);
+            //Matrix4 lookat = Matrix4.LookAt(0, 5, 5, 0, 0, 0, 0, 1, 0);
             Matrix4 lookat = Matrix4.LookAt(0, 5, 5, 0, 0, 0, 0, 1, 0);
+
             GL.LoadMatrix(ref lookat);
 
             GL.Rotate(m_angle, 0.0f, 1.0f, 0.0f);
@@ -168,16 +179,29 @@ namespace Assimp.Sample
 
             GL.Translate(-m_sceneCenter);
 
+            //loads objects...
             if(m_displayList == 0)
             {
+                //also
+                myGrid = new Grid();
+                myGrid.Create();
+                //
+                mySkyBox = new SkyBox();
+
                 m_displayList = GL.GenLists(1);
                 GL.NewList(m_displayList, ListMode.Compile);
                 RecursiveRender(m_model, m_model.RootNode);
                 GL.EndList();
+
             }
 
+            //draw code...
+            mySkyBox.Dibujar();
+            //
+            myGrid.Draw2();
+            //
             GL.CallList(m_displayList);
-
+            //
             SwapBuffers();
         }
 

@@ -60,9 +60,14 @@
     <Reference Include="System.Windows.Forms" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Asteroid.cs" />
+    <Compile Include="AsteroidGenerator.cs" />
+    <Compile Include="Camara.cs" />
+    <Compile Include="Grid.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SimpleOpenGLSample.cs" />
+    <Compile Include="SkyBox.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AssimpNet\AssimpNet.csproj">
